@@ -101,7 +101,7 @@ const AddSignup = () => {
                                     <option value="KOTTAYAM">KOTTAYAM</option>
                                     <option value="ERNAKULAM">ERNAKULAM</option>
                                     <option value="ERNAKULAM">IDUKKI</option>
-                                    <option value="ERNAKULAM">KOZHIKODE</option>
+                                    <option value="KOZHIKODE">KOZHIKODE</option>
                                 </select>
                             </div>
                             <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
